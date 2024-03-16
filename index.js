@@ -6,14 +6,7 @@ const moment = require('moment-timezone');
 
 // 添加24小时访问的URL数组
 const urls = [
-  'https://www.baidu.com',             // 此处可备注名称，例如：glitch
-  'https://www.yahoo.com',             // 此处可备注名称，例如：glitch
-  'https://www.baidu.com',             // 此处可备注名称，例如：glitch
-  'https://www.yahoo.com',             // 此处可备注名称，例如：glitch
-  'https://www.baidu.com',             // 此处可备注名称，例如：glitch
-  'https://www.yahoo.com',             // 此处可备注名称，例如：glitch
-  'https://www.baidu.com',             // 此处可备注名称，例如：glitch
-  'https://www.yahoo.com',             // 此处可备注名称，例如：glitch
+  'https://keb1-fangqin090.koyeb.app/',             // 此处可备注名称，例如：glitch
   // 添加更多24小时不间断访问的URL
 ];
 
