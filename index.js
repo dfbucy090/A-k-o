@@ -85,7 +85,7 @@ const webpages = [ 常量网页 = [
   'https://fke15-fangqin097.koyeb.app',   // Glitch-688
   'https://fke15-fangqin097.koyeb.app', // Glitch-688
   'https://flao-fangqin097.koyeb.app',   // Glitch-688
-  'https://flao-fangqin097.koyeb.app', // Glitch-688
+  'https://flao-fangqin097.koyeb.app' // Glitch-688
   
   // ... 添加更多url
 ];
