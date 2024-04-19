@@ -91,7 +91,7 @@ async function scrapeAndLog(url) {
   }
 }
 // 每2分钟访问一次
-cron.schedule('*/2 * * * *', () => {
+cron.schedule('*/1 * * * *', () => {
   console.log('Running webpage access...');
   urls.forEach((url) => {
     scrapeAndLog(url);
