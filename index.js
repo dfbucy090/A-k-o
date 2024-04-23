@@ -22,7 +22,6 @@ const urls = [
   'https://laof-476836253.koyeb.app',   // Glitch-688
   'https://fke15-fangqin097.koyeb.app',   // Glitch-688
   'https://flao-fangqin097.koyeb.app',   // Glitch-688
-  'https://a6ff08ac-db8d-4d3b-9fdd-ebaf202f14c2-00-3qyet72k2ok0s.pike.replit.dev',   // Glitch-688
   // 添加更多24小时不间断访问的URL
 ];
 
